@@ -8,5 +8,34 @@
 <a href="https://www.blog.tanhio.dev"><img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
 </div>
 
-***
+---
+```
+person:
+  name: tanhiowyatt
+  role: Pentest & DevSecOps
+  focus: Offensive Security & CI/CD Hardening
 
+synopsis:
+  current_focus: ["Vulnerability Research", "Cloud Security", "SecAutomations"]
+  languages: ["English", "Russian", "Polish"]
+
+syntax: >
+  tanhiowyatt 
+  --mode <RedTeam | BlueTeam> 
+  --focus <VulnResearch | CloudSec | SecOps>
+
+description: |
+  Specializing in identifying vulnerabilities and integrating security 
+  into the development lifecycle. Building secure CI/CD pipelines, 
+  conducting penetration tests, and automating threat detection 
+  to ensure infrastructure resilience.
+
+links:
+  telegram: https://t.me/tanhiowyatt  
+  element:  tanhiowyatt:catgirl.cloud
+
+status:
+  hacking: true
+  coffee_level: high
+  system_breach: false # authorized only
+```
